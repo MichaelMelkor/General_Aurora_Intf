@@ -1,8 +1,8 @@
 # General_Aurora_Intf
 
-| 版本 | 修改描述 | 修改日期 | 作者 |
+| 版本 | 修改日期 | 修改描述 | 作者 |
 |-----|---------|---------|-----|
-|1.0|初版General Aurora Intf，仅可通过tcl生成一个固定的示例Vivado工程|2019-11-08|Michael|
+|1.0|2019-11-08|初版General Aurora Intf，仅可通过tcl生成一个固定的示例Vivado工程|Michael张仲禹|
 | | | | |
 ----------------------
 General_Aurora_Intf is a simple example for using Xilinx Aurora 64B66B IP core.
